@@ -11,6 +11,7 @@ djoser = "==2.1"
 django-environ = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.9"
